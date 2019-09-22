@@ -1,0 +1,12 @@
+name: peg2_dashboard
+title: PEG2 Dashboard
+username: Jonathan.Callan@treasury.wa.gov.au
+account: Jonathan.Callan@treasury.wa.gov.au
+server: analytics.treasury.wa.gov.au
+hostUrl: https://analytics.treasury.wa.gov.au/__api__
+appId: 12
+bundleId: 85
+url: https://analytics.treasury.wa.gov.au/PEG2/
+when: 1565578551.97874
+asMultiple: FALSE
+asStatic: FALSE

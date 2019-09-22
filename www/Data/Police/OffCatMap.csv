@@ -1,0 +1,51 @@
+WAPOL_Hierarchy_Lvl1,WAPOL_Hierarchy_Lvl2,WAPOL_Hierarchy_Lvl3
+Murder,Homicide,Offences Against the Person
+Attempted / Conspiracy to Murder,Homicide,Offences Against the Person
+Manslaughter,Homicide,Offences Against the Person
+Driving Causing Death,Homicide,Offences Against the Person
+Sexual Assault,Recent Sexual Offences,Offences Against the Person
+Non-Assaultive Sexual Offences,Recent Sexual Offences,Offences Against the Person
+Sexual Assault,Historical Sexual Offences,Offences Against the Person
+Non-Assaultive Sexual Offences,Historical Sexual Offences,Offences Against the Person
+Serious Assault (Family),Assault (Family),Offences Against the Person
+Common Assault (Family),Assault (Family),Offences Against the Person
+Serious Assault (Non-Family),Assault (Non-Family),Offences Against the Person
+Common Assault (Non-Family),Assault (Non-Family),Offences Against the Person
+Assault Police Officer,Assault (Non-Family),Offences Against the Person
+Threatening Behaviour (Family),Threatening Behaviour (Family),Offences Against the Person
+Possess Weapon to Cause Fear (Family),Threatening Behaviour (Family),Offences Against the Person
+Threatening Behaviour (Non-Family),Threatening Behaviour (Non-Family),Offences Against the Person
+Possess Weapon to Cause Fear (Non-Family),Threatening Behaviour (Non-Family),Offences Against the Person
+Kidnapping / Child Stealing,Deprivation of Liberty,Offences Against the Person
+Deprivation of Liberty,Deprivation of Liberty,Offences Against the Person
+Robbery (Business),Robbery,Offences Against the Person
+Robbery (Non-Business),Robbery,Offences Against the Person
+Burglary (Dwelling),Burglary,Offences Against Property
+Burglary (Non-Dwelling),Burglary,Offences Against Property
+Stealing of Motor Vehicle,Stealing of Motor Vehicle,Offences Against Property
+Stealing From Motor Vehicle (Contents or Parts),Stealing,Offences Against Property
+Stealing From Retail Premises (Shoplift),Stealing,Offences Against Property
+Stealing From Dwelling,Stealing,Offences Against Property
+Stealing From Other Premises or Place,Stealing,Offences Against Property
+Stealing as a Servant,Stealing,Offences Against Property
+Stealing (Not Elsewhere Classified),Stealing,Offences Against Property
+Criminal Damage,Property Damage,Offences Against Property
+Damage,Property Damage,Offences Against Property
+Cause Damage by Fire,Arson,Offences Against Property
+Cause Bushfire,Arson,Offences Against Property
+Other Fire Related Offences,Arson,Offences Against Property
+Drug Dealing,Drug Offences,Detected Offences
+Cultivate or Manufacture Drugs,Drug Offences,Detected Offences
+Drug Possession,Drug Offences,Detected Offences
+Possession of Drug Paraphernalia,Drug Offences,Detected Offences
+Other Drug Offences,Drug Offences,Detected Offences
+Possess Stolen Property,Receiving and Possession of Stolen Property,Detected Offences
+Receiving Stolen Property,Receiving and Possession of Stolen Property,Detected Offences
+Regulated Weapons Offences,Regulated Weapons Offences,Detected Offences
+Graffiti,Graffiti,Miscellaneous Offences
+Forgery,Fraud & Related Offences,Miscellaneous Offences
+Fraud (Credit Card),Fraud & Related Offences,Miscellaneous Offences
+Fraud (Not Elsewhere Classified),Fraud & Related Offences,Miscellaneous Offences
+Breach of Family Violence Restraint Order,Breach of Violence Restraint Order,Miscellaneous Offences
+Breach of Violence Restraint Order,Breach of Violence Restraint Order,Miscellaneous Offences
+Breach of Police Order,Breach of Violence Restraint Order,Miscellaneous Offences
